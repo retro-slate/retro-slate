@@ -1,38 +1,85 @@
-## Hi, I’m Zia
+# Hi, I'm Zia
 
-Current Project: MVP for SlateGEO.
-Cybersecurity enthusiast. Web Developer.  
-Learning robotics and game dev.  
-Likes cats.
+Product-focused developer building software, SaaS platforms, and digital tools with an emphasis on usability, scalable systems, and clean design.
+
+Currently:
+- Founder of RetroSlate
+- Building SlateGEO
+- Developing open-source and productivity-focused software
+- Exploring humane technology and cognitive support systems
+
+---
+
+## Current Focus
+
+### RetroSlate
+Remote-first software and digital product ecosystem.
+
+https://retroslate.com
+
+### SlateGEO
+AI visibility analysis platform for websites and businesses.
+
+https://slategeo.com
+
+### Rearview
+Open-source cross-platform productivity utility focused on OS interoperability and multi-device workflows.
+
+### Ethos
+Cognitive support application focused on memory accessibility and organization.
 
 ---
 
 ## Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-00599C?logo=css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-00599C?logo=html&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
 
-### Web
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+### Backend & Databases
+![Node JS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
+![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 
-### Backend & Systems
-![Cloudinary](https://img.shields.io/badge/Cloudinary-E0234E?logo=cloudinary&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4169E1?logo=mongodb&logoColor=white)
-![Render](https://img.shields.io/badge/Render-2D3748?logo=render&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary)
+![Razorpay](https://img.shields.io/badge/Razorpay-000000?style=for-the-badge&logo=razorpay)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+---
+
+## Interests
+
+- Full-stack product development
+- SaaS architecture
+- Open-source tooling
+- Humane technology
+- AI visibility & GEO systems
+- Remote-first collaboration
+- Cognitive support systems
+
+---
+
+## Currently Learning
+
+- Advanced backend systems
+- Cloud infrastructure
+- DevOps fundamentals
+- Cybersecurity
+- Product engineering workflows
 
 ---
 
 ## Contact
-- Instagram: @zia.hawwa
-- Email: ziahawwa@retroslate.com
+
+Website:
+https://retroslate.com
+
+Email:
+ziahawwa@retroslate.com
