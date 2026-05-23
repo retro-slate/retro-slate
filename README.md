@@ -1,85 +1,77 @@
-# Hi, I'm Zia
+# Zia Hawwa Rasheed
 
-Product-focused developer building software, SaaS platforms, and digital tools with an emphasis on usability, scalable systems, and clean design.
+Full-stack developer building modern web platforms, SaaS systems, AI-adjacent tools, and experimental digital products through RetroSlate.
 
-Currently:
-- Founder of RetroSlate
-- Building SlateGEO
-- Developing open-source and productivity-focused software
-- Exploring humane technology and cognitive support systems
+Focused on:
 
----
+* product engineering
+* scalable frontend systems
+* reusable architecture
+* AI-native workflows
+* humane software design
+* modern interface systems
 
-## Current Focus
+Currently building:
 
-### RetroSlate
-Remote-first software and digital product ecosystem.
-
-https://retroslate.com
-
-### SlateGEO
-AI visibility analysis platform for websites and businesses.
-
-https://slategeo.com
-
-### Rearview
-Open-source cross-platform productivity utility focused on OS interoperability and multi-device workflows.
-
-### Ethos
-Cognitive support application focused on memory accessibility and organization.
+* **RetroSlate** — experimental software/product studio
+* **SlateGEO** — AI visibility analysis SaaS platform
+* **Ethos** — open-source cognitive support platform
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
+
+![React](https://img.shields.io/badge/React-222222?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-222222?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-222222?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
 
 ### Backend & Databases
-![Node JS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
-![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+
+![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
+![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary)
-![Razorpay](https://img.shields.io/badge/Razorpay-000000?style=for-the-badge&logo=razorpay)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+
+![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-222222?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-222222?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
 
 ---
 
-## Interests
+## Current Focus
 
-- Full-stack product development
-- SaaS architecture
-- Open-source tooling
-- Humane technology
-- AI visibility & GEO systems
-- Remote-first collaboration
-- Cognitive support systems
-
----
-
-## Currently Learning
-
-- Advanced backend systems
-- Cloud infrastructure
-- DevOps fundamentals
-- Cybersecurity
-- Product engineering workflows
+* AI-assisted engineering workflows
+* reusable systems architecture
+* frontend/product engineering
+* accessibility-focused interfaces
+* backend automation systems
+* productivity & workflow tooling
 
 ---
 
-## Contact
+## Systems Library
 
-Website:
-https://retroslate.com
+A growing collection of reusable:
 
-Email:
-ziahawwa@retroslate.com
+* authentication systems
+* UI animations
+* utility applications
+* workers & automation pipelines
+* templates & layouts
+* frontend interaction systems
+
+Designed for practical production usage and modular integration into modern web applications.
+
+---
+
+## Links
+
+* Portfolio: https://retroslate.com
+* SaaS Platform: https://slategeo.com
+* GitHub: https://github.com/retro-slate
+* Contact: ziahawwa@retroslate.com
