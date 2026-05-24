@@ -1,77 +1,58 @@
 # Zia Hawwa Rasheed
 
-Full-stack developer building modern web platforms, SaaS systems, AI-adjacent tools, and experimental digital products through RetroSlate.
+Full-stack developer building operational intelligence systems, developer tooling, accessibility-focused technology, and modern software infrastructure under RetroSlate.
 
-Focused on:
+Currently focused on:
 
-* product engineering
-* scalable frontend systems
-* reusable architecture
-* AI-native workflows
-* humane software design
-* modern interface systems
+* website intelligence platforms
+* operational workflow systems
+* explainable automation
+* developer tooling
+* accessibility-focused software
+* scalable frontend/backend systems
+* sustainable infrastructure design
 
-Currently building:
+---
 
-* **RetroSlate** — experimental software/product studio
-* **SlateGEO** — AI visibility analysis SaaS platform
-* **Ethos** — open-source cognitive support platform
+## Current Projects
+
+### RetroSlate
+
+Software ecosystem focused on operational intelligence systems, developer tooling, accessibility technology, and practical software infrastructure.
+
+### SlateGEO
+
+Website intelligence platform analyzing AI visibility, SEO readiness, UX quality, accessibility, and machine readability.
+
+### OI Agents
+
+Specialized operational intelligence systems designed to accelerate professional workflows through explainable, deterministic automation.
+
+### Ethos
+
+Open-source accessibility initiative focused on humane digital systems and cognitive accessibility support.
 
 ---
 
 ## Tech Stack
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-222222?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-222222?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-222222?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
-
-### Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
-![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-222222?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-222222?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ---
 
-## Current Focus
+## Interests
 
-* AI-assisted engineering workflows
-* reusable systems architecture
-* frontend/product engineering
-* accessibility-focused interfaces
-* backend automation systems
-* productivity & workflow tooling
+Operational intelligence • Developer tooling • Infrastructure systems • Accessibility technology • Workflow automation • Human-centered software • Sustainable computing • Open-source systems
 
 ---
 
-## Systems Library
+## Philosophy
 
-A growing collection of reusable:
-
-* authentication systems
-* UI animations
-* utility applications
-* workers & automation pipelines
-* templates & layouts
-* frontend interaction systems
-
-Designed for practical production usage and modular integration into modern web applications.
-
----
-
-## Links
-
-* Portfolio: https://retroslate.com
-* SaaS Platform: https://slategeo.com
-* GitHub: https://github.com/retro-slate
-* Contact: ziahawwa@retroslate.com
+I’m interested in building systems that reduce friction, improve operational clarity, and support human capability through explainable and sustainable software design.
