@@ -1,58 +1,72 @@
 # Zia Hawwa Rasheed
 
-Full-stack developer building operational intelligence systems, developer tooling, accessibility-focused technology, and modern software infrastructure under RetroSlate.
+Founder & Software Engineer at **RetroSlate**.
 
-Currently focused on:
+I'm interested in building systems that help people understand, organize, and act on information more effectively. My current work focuses on Operational Intelligence, developer tools, SaaS platforms, and workflow systems.
 
-* website intelligence platforms
-* operational workflow systems
-* explainable automation
-* developer tooling
-* accessibility-focused software
-* scalable frontend/backend systems
-* sustainable infrastructure design
-
----
-
-## Current Projects
-
-### RetroSlate
-
-Software ecosystem focused on operational intelligence systems, developer tooling, accessibility technology, and practical software infrastructure.
+## Currently Building
 
 ### SlateGEO
 
-Website intelligence platform analyzing AI visibility, SEO readiness, UX quality, accessibility, and machine readability.
+Website Intelligence Platform for GEO, SEO, UX, and Accessibility analysis.
 
 ### OI Agents
 
-Specialized operational intelligence systems designed to accelerate professional workflows through explainable, deterministic automation.
+Localized Operational Intelligence systems designed to support research, organization, and decision-making.
 
-### Ethos
+### RearView
 
-Open-source accessibility initiative focused on humane digital systems and cognitive accessibility support.
+A unified ecosystem connecting devices, workflows, and information.
+
+### CodeOI
+
+An open-source programming CLI focused on simplifying software development workflows.
 
 ---
 
 ## Tech Stack
 
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-EA1F28?style=for-the-badge)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
+
+### Data & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ---
 
-## Interests
+## Links
 
-Operational intelligence • Developer tooling • Infrastructure systems • Accessibility technology • Workflow automation • Human-centered software • Sustainable computing • Open-source systems
+RetroSlate — https://www.retroslate.com
+
+SlateGEO — https://www.slategeo.com
+
+GitHub Organization — [https://www.github.com/RetroSlate](https://github.com/retroslateco)
+
+LinkedIn — https://www.linkedin.com/in/zia-rasheed-9474ba401/
 
 ---
 
-## Philosophy
-
-I’m interested in building systems that reduce friction, improve operational clarity, and support human capability through explainable and sustainable software design.
+> Building software one operational system at a time.
