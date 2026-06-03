@@ -61,11 +61,11 @@ RetroSlate — https://www.retroslate.com
 
 SlateGEO — https://www.slategeo.com
 
-CodeOI - https://www.codeoi.retroslate.com
+CodeOI - https://codeoi.retroslate.com
 
-RearView - https://www.rearview.retroslate.com
+RearView - https://rearview.retroslate.com
 
-Foundation - https://www.foundation.retroslate.com 
+Foundation - https://foundation.retroslate.com 
 
 GitHub Organization — [https://www.github.com/RetroSlate](https://github.com/retroslateco)
 
