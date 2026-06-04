@@ -2,11 +2,6 @@
 
 Building open-source software, developer tools, and technology for social and environmental impact.
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
-![Building](https://img.shields.io/badge/Currently-Building-blue)
-![Focus](https://img.shields.io/badge/Focus-Developer%20Tools-orange)
-![Status](https://img.shields.io/badge/Learning-Every%20Day-purple)
-
 ---
 
 ## Current Projects
