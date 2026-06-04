@@ -1,78 +1,91 @@
 # Zia Hawwa Rasheed
 
-Building software, infrastructure, and tools that prioritize clarity, transparency, and human agency.
+Building open-source software, developer tools, and technology for social and environmental impact.
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
+![Building](https://img.shields.io/badge/Currently-Building-blue)
+![Focus](https://img.shields.io/badge/Focus-Developer%20Tools-orange)
+![Status](https://img.shields.io/badge/Learning-Every%20Day-purple)
+
+---
 
 ## Current Projects
 
-### SlateGEO
+### Retroslate Foundation
 
-AI Search Optimization platform focused on GEO, SEO, UX, and Accessibility.
+Building technology, data systems, and tools to support sustainability, transparency, environmental awareness, and community-driven initiatives.
+
+### Terminal
+
+A unified workspace for analytics, reports, monitoring, deployments, search visibility, and operational metrics.
+
+**Goal:** Replace dashboard overload with a single source of truth.
 
 ### CodeOI
 
-Experimental open-source programming language and compiler built in Rust.
+An experimental open-source programming language and compiler focused on human-readable software development.
 
-### Rearview
+**Exploring:**
 
-Cross-platform application built with Flutter.
+* Compiler Design
+* Parsing & ASTs
+* Transpilers
+* Developer Experience
+* Language Design
 
-### RetroSlate Foundation
+---
 
-Community and sustainability initiative focused on environmental restoration, accessibility, and long-term human-centered development.
-
-## Technologies
+## Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql\&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
 
-### Backend
+### Backend & APIs
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35)
 
-### Infrastructure
+### Databases
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=white)
 
-## Philosophy
+### Cloud & Deployment
 
-Build technology people can understand, trust, and control.
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render\&logoColor=black)
 
----
+### Developer Tools
 
-## Links
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![CLI Development](https://img.shields.io/badge/CLI_Development-4B32C3)
+![Compiler Design](https://img.shields.io/badge/Compiler_Design-8B5CF6)
+![ASTs](https://img.shields.io/badge/ASTs-7C3AED)
+![Language Design](https://img.shields.io/badge/Language_Design-9333EA)
 
-RetroSlate — https://www.retroslate.com
+### Analytics & Monitoring
 
-SlateGEO — https://www.slategeo.com
-
-CodeOI - https://codeoi.retroslate.com
-
-RearView - https://rearview.retroslate.com
-
-Foundation - https://foundation.retroslate.com 
-
-GitHub Organization — [https://www.github.com/RetroSlate](https://github.com/retroslateco)
-
-LinkedIn — https://www.linkedin.com/in/zia-rasheed-9474ba401/
-
-Contact - ziahawwa@retroslate.com
+![PostHog](https://img.shields.io/badge/PostHog-000000?logo=posthog\&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics\&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?logo=google\&logoColor=white)
 
 ---
 
-> Building software one operational system at a time.
+## Connect
+
+retroslate.com
+
+Always building something interesting.
