@@ -1,32 +1,68 @@
 # Zia Hawwa Rasheed
 
-Building open-source software, developer tools, and technology for social and environmental impact.
+Building open-source software, developer tools, and technology that supports sustainability, transparency, and positive impact.
+
+---
+
+## About
+
+I'm interested in building systems that help people understand, improve, and contribute to the world around them.
+
+My work currently focuses on:
+
+* Open-source software
+* Developer tools
+* Programming languages & compilers
+* Analytics & reporting systems
+* Data infrastructure
+* Environmental technology
 
 ---
 
 ## Current Projects
 
-### Retroslate Foundation
+### RetroSlate Foundation
 
-Building technology, data systems, and tools to support sustainability, transparency, environmental awareness, and community-driven initiatives.
+A global initiative focused on improving the health of people, animals, and the environment through data, collaboration, and action.
 
-### Terminal
+**Nature First. People First. Lives First.**
 
-A unified workspace for analytics, reports, monitoring, deployments, search visibility, and operational metrics.
+Long-term initiatives include:
 
-**Goal:** Replace dashboard overload with a single source of truth.
+* Global Health Index (GHI)
+* Environmental reporting and transparency
+* Sustainability research
+* Community-driven projects
+* Open-source infrastructure
+
+---
+
+### SlateTerminal
+
+An open-source platform designed to reduce dashboard overload by bringing analytics, monitoring, reporting, search visibility, and operational insights into a unified workspace.
+
+Current focus:
+
+* Analytics aggregation
+* Reporting systems
+* Monitoring & alerts
+* Search visibility tracking
+* Operational dashboards
+
+---
 
 ### CodeOI
 
 An experimental open-source programming language and compiler focused on human-readable software development.
 
-**Exploring:**
+Exploring:
 
-* Compiler Design
-* Parsing & ASTs
+* Language design
+* Lexers & parsers
+* Abstract Syntax Trees (ASTs)
 * Transpilers
-* Developer Experience
-* Language Design
+* CLI tooling
+* Developer experience
 
 ---
 
@@ -45,22 +81,17 @@ An experimental open-source programming language and compiler focused on human-r
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
 
-### Backend & APIs
+### Backend & Infrastructure
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B)
-![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35)
-
-### Databases
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=white)
 
 ### Cloud & Deployment
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render\&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
 
 ### Developer Tools
 
@@ -69,18 +100,25 @@ An experimental open-source programming language and compiler focused on human-r
 ![CLI Development](https://img.shields.io/badge/CLI_Development-4B32C3)
 ![Compiler Design](https://img.shields.io/badge/Compiler_Design-8B5CF6)
 ![ASTs](https://img.shields.io/badge/ASTs-7C3AED)
-![Language Design](https://img.shields.io/badge/Language_Design-9333EA)
-
-### Analytics & Monitoring
-
-![PostHog](https://img.shields.io/badge/PostHog-000000?logo=posthog\&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=googleanalytics\&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?logo=google\&logoColor=white)
 
 ---
 
-## Connect
+## Current Focus
 
-retroslate.com
+* Building SlateTerminal
+* Designing CodeOI
+* Developing the Global Health Index (GHI)
+* Growing the RetroSlate Foundation
+* Contributing to open-source software
 
-Always building something interesting.
+---
+
+## Contact
+
+https://www.retroslate.com
+
+ziahawwa@retroslate.com
+
+www.linkedin.com/in/zia-rasheed-9474ba401
+
+Always building.
