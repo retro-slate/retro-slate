@@ -35,6 +35,8 @@ Long-term initiatives include:
 * Community-driven projects
 * Open-source infrastructure
 
+https://www.retroslate.com (In Development)
+
 ---
 
 ### SlateTerminal
@@ -48,6 +50,8 @@ Current focus:
 * Monitoring & alerts
 * Search visibility tracking
 * Operational dashboards
+
+https://terminal.retroslate.com (In Development)
 
 ---
 
@@ -63,6 +67,16 @@ Exploring:
 * Transpilers
 * CLI tooling
 * Developer experience
+
+https://codeoi.retroslate.com (In Development)
+
+---
+
+### RearView
+
+Seamless ecosystem conectivity across all operating systems. Heavily theoretical at this stage, but in development nonetheless. 
+
+https://rearview.retroslate.com (Coming Soon)
 
 ---
 
