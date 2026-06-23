@@ -129,10 +129,6 @@ https://rearview.retroslate.com (Coming Soon)
 
 ## Contact
 
-https://www.retroslate.com
-
 ziahawwa@retroslate.com
 
 www.linkedin.com/in/zia-rasheed-9474ba401
-
-Always building.
