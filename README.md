@@ -4,7 +4,7 @@ Software engineer building systems, tools, and robots.
 
 ### Current Focus
 
-![GHI](https://img.shields.io/badge/GHI-Global%20Health%20Intelligence-blue)
+![GHI](https://img.shields.io/badge/GHI-Global%20Health%20Index-blue)
 ![CodeOI](https://img.shields.io/badge/CodeOI-Programming%20Language%20%26%20Tooling-green)
 ![Theseus](https://img.shields.io/badge/Theseus-Robotics%20%26%20Autonomy-orange)
 
