@@ -1,129 +1,40 @@
 # Zia Hawwa Rasheed
 
-Building open-source software, developer tools, and technology that supports sustainability, transparency, and positive impact.
+Software engineer building systems, tools, and robots.
 
----
+### Current Focus
 
-## About
+![GHI](https://img.shields.io/badge/GHI-Global%20Health%20Intelligence-blue)
+![CodeOI](https://img.shields.io/badge/CodeOI-Programming%20Language%20%26%20Tooling-green)
+![Theseus](https://img.shields.io/badge/Theseus-Robotics%20%26%20Autonomy-orange)
 
-I'm interested in building systems that help people understand, improve, and contribute to the world around them.
+### Interests
 
-My work currently focuses on:
+![Systems Engineering](https://img.shields.io/badge/Systems%20Engineering-black)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-purple)
+![Open Source](https://img.shields.io/badge/Open%20Source-brightgreen)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-red)
+![Space Technology](https://img.shields.io/badge/Space%20Technology-blueviolet)
 
-* Open-source software
-* Developer tools
-* Programming languages & compilers
-* Analytics & reporting systems
-* Data infrastructure
-* Environmental technology
+### Projects
 
----
+**Global Health Index (as part of a planned Non-Profit Foundation)**
+> Building a platform for exploring global health, development, and socioeconomic data.
+> https://www.retroslate.com 
 
-## Current Projects
+**CodeOI**
+> Building developer tools and programming language infrastructure.
+> https://codeoi.retroslate.com 
 
-### RetroSlate Foundation
+**Theseus**
+> A robotics platform exploring autonomy, sensing, and real-world systems.
 
-A global initiative focused on improving the health of people, animals, and the environment through data, collaboration, and action.
+### Currently Learning
 
-**Nature First. People First. Lives First.**
-
-Long-term initiatives include:
-
-* Global Health Index (GHI)
-* Environmental reporting and transparency
-* Sustainability research
-* Community-driven projects
-* Open-source infrastructure
-
-https://www.retroslate.com (In Development)
-
----
-
-### SlateTerminal
-
-An open-source platform designed to reduce dashboard overload by bringing analytics, monitoring, reporting, search visibility, and operational insights into a unified workspace.
-
-Current focus:
-
-* Analytics aggregation
-* Reporting systems
-* Monitoring & alerts
-* Search visibility tracking
-* Operational dashboards
-
-https://terminal.retroslate.com (In Development)
-
----
-
-### CodeOI
-
-An experimental open-source programming language and compiler focused on human-readable software development.
-
-Exploring:
-
-* Language design
-* Lexers & parsers
-* Abstract Syntax Trees (ASTs)
-* Transpilers
-* CLI tooling
-* Developer experience
-
-https://codeoi.retroslate.com (In Development)
-
----
-
-### RearView
-
-Seamless ecosystem conectivity across all operating systems. Heavily theoretical at this stage, but in development nonetheless. 
-
-https://rearview.retroslate.com (Coming Soon)
-
----
-
-## Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql\&logoColor=white)
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)
-
-### Backend & Infrastructure
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase\&logoColor=white)
-
-### Cloud & Deployment
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
-
-### Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![CLI Development](https://img.shields.io/badge/CLI_Development-4B32C3)
-![Compiler Design](https://img.shields.io/badge/Compiler_Design-8B5CF6)
-![ASTs](https://img.shields.io/badge/ASTs-7C3AED)
-
----
-
-## Current Focus
-
-* Building SlateTerminal
-* Designing CodeOI
-* Developing the Global Health Index (GHI)
-* Growing the RetroSlate Foundation
-* Contributing to open-source software
+![Electronics](https://img.shields.io/badge/Electronics-Learning-yellow)
+![Control Systems](https://img.shields.io/badge/Control%20Systems-Learning-yellow)
+![Robotics](https://img.shields.io/badge/Robotics-Learning-yellow)
+![Space Systems](https://img.shields.io/badge/Space%20Systems-Learning-yellow)
 
 ---
 
